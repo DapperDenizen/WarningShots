@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f8b655ff61433b4d978c28287c62352, type: 3}
+  m_Name: ArtData2
+  m_EditorClassIdentifier: 
+  corner: {fileID: 21300000, guid: 72c0e4158bb3c4246ae1838bac52b699, type: 3}
+  middle: {fileID: 21300000, guid: d4900754914ff6147994b42e6641bf93, type: 3}
+  edge: {fileID: 21300000, guid: e39ec8f7e8587364da5010bcefa47ce8, type: 3}
+  bullet: {fileID: 21300000, guid: 1ed8dfb88af40f24cb50cafcd6a5cd83, type: 3}
+  bounce: {fileID: 21300000, guid: c221ddcbce5d3a541af05047dd746d28, type: 3}
+  XplodeWall: {fileID: 21300000, guid: 9f81f9305b7149442a3bb08785b6cf18, type: 3}
+  XplodeCenter: {fileID: 21300000, guid: 6b6dd761277f8d64aa66945651cb5dce, type: 3}
+  tileWhite: {r: 0.9463097, g: 1, b: 0.3915094, a: 1}
+  tileBlack: {r: 1, g: 0.8371426, b: 0.07075471, a: 1}
+  tileBlock: {r: 0.9812629, g: 1, b: 0.2688679, a: 0}
+  characterColour:
+  - {r: 1, g: 0.7971698, b: 0.7971698, a: 1}
+  - {r: 0.68984467, g: 0.6745283, b: 1, a: 1}
+  - {r: 0.75927967, g: 1, b: 0.6839622, a: 1}
